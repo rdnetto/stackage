@@ -3151,8 +3151,8 @@ packages:
     "Carl Baatz <carl.baatz@gmail.com> @cbaatz":
         - atom-basic
 
-    "Reuben D'Netto <rdnetto@gmail.com>":
-        - glob-posix < 0 # BuildFailureException Process exited with ExitFailure 1: ./Setup build
+    "R D'Netto <rdnetto@gmail.com>":
+        - glob-posix
 
     "Kadzuya Okamoto <arow.okamoto@gmail.com> @arowM":
         - type-level-kv-list
